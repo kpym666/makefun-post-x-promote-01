@@ -17,7 +17,11 @@ post's URL is recorded in `POST.json` at the repository root:
 
 `main.ts` (Node 22, standard library only) copies `POST.json` from the
 repository root into the harness output directory, so the house can read the
-post's address and score it. It reads the source directory from
+post's address and score it. Before copying, it reads `POST.json`, parses it
+as JSON, and checks the `url` is an X post address
+(`https://x.com/<handle>/status/<digits>`); if the file is missing,
+unparseable, or the URL does not match, it prints an error and exits
+non-zero without copying anything. It reads the source directory from
 `MAKEFUN_BOT_DIR` (default `/bot`) and the output directory from
 `MAKEFUN_OUTPUT_DIR` (default `/output`), creating the output directory if
 needed. If the copy fails it prints an error and exits non-zero.
