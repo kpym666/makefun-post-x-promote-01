@@ -1,8 +1,12 @@
 # Post on X — Promote make.fun's make-your-own-bounty
 
+[![make.fun · post-x-promote-make-your-own-bounty-01](https://make.fun/badge/post-x-promote-make-your-own-bounty-01.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+[![rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/kpym666/makefun-post-x-promote-01/rank.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+[![reward](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/kpym666/makefun-post-x-promote-01/reward.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+
 This repository is the code behind an X post promoting make.fun's
-make-your-own-bounty feature, entered in the make.fun bounty
-`post-x-promote-make-your-own-bounty-01`.
+make-your-own-bounty feature, entered in the [make.fun bounty
+`post-x-promote-make-your-own-bounty-01`](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01).
 
 The post itself is the entry. It quotes make.fun's make-your-own-bounty post
 on X, carries a photo of its own, and includes a link to
